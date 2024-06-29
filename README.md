@@ -9,7 +9,3 @@
     Boxicons: https://boxicons.com/
 
     Images: https://unsplash.com/
-
-# Preview
-
-!["Make Sudoku Game With HTML CSS JavaScript"]("(https://indradeokr.github.io/javascript-sudoku-main/)")
